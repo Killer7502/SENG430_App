@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="label_text">Click the Button</string>
+    <string name="button_text">Click Me!</string>
+    <string name="label_success">Success</string>
+    <string name="label_notsuccess">Not Success</string>
+</resources>
